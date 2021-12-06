@@ -1,0 +1,55 @@
+
+<div class="d-flex justify-content-center">
+            <div class="card card-contact">
+                <div class="card-body">
+                    <div class="container contact-con">
+                        <div class="row contact-row">
+                            <div class="col-2 ic-con"><img class="icon-contact" src="icon/email.png"></div>
+                            <div class="col-8">
+                                <p class="card-text-contact">putrayogi4545@gmail.com</p>
+                            </div>
+                        </div>
+                        <div class="row contact-row">
+                            <div class="col-2 ic-con"><img class="icon-contact" src="icon/phone.png"></div>
+                            <div class="col-8">
+                                <p class="card-text-contact">+62 851-5666-4358</p>
+                            </div>
+                        </div>
+                        <div class="row contact-row">
+                            <div class="col-2 ic-con"><img class="icon-contact" src="icon/linkedin.png"></div>
+                            <div class="col-8">
+                                <a class="card-text-contact" href="https://www.linkedin.com/in/putra-prayogi/">https://www.linkedin.com/in/putra-prayogi/</a>
+                            </div>
+                        </div>
+                        <div class="row contact-row1">
+                            <div class="col-2 ic-con"><img class="icon-contact" src="icon/github.png"></div>
+                            <div class="col-8">
+                                <a class="card-text-contact" href="https://github.com/MissterMan">https://github.com/MissterMan</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <h5 class="card-title-project1">My UMM Redesign (2021)</h5>
+                            <p class="card-text-project1">I redesign the User Interface application called My UMM for
+                                Student because there is a lot of UMM student complain about this application design
+                                that not fulfil the usability and less aesthetic.</p>
+                            <a class="btn btn-warning"
+                                href="https://drive.google.com/file/d/16S6iVl5KH3l-5T2FTcqhhSjvzNsYsPg8/view?usp=sharing">Visit
+                                Project</a>
+
+
+        <div class="card-body-project1">
+                            <h5 class="card-title-project1">UX Development (2021)</h5>
+                            <p class="card-text-project1">This is my final project on second year as a university
+                                student, we work as a team, and we create, design and research the user experience about
+                                scooter rental app named <b>Skut</b>.</p>
+                            <a class="btn btn-warning"
+                                href="https://drive.google.com/file/d/1mCjCpCet7-BlE_VZ5r4FZ1F9UGC4aWKC/view?usp=sharing">Visit
+                                Project</a>
+                        </div>
