@@ -57,64 +57,6 @@ a:hover {
     color: black;
 }
 
-
-/*First blob*/
-
-/* .blob1bg {
-    margin-left: 600px;
-    height: 680px;
-    width: 800px;
-    position: absolute;
-    z-index: -1;
-}
-
-.blob2bg {
-    margin-top: -250px;
-    margin-left: -1200px;
-    height: 1800px;
-    width: 2600px;
-    position: absolute;
-    z-index: -1;
-}
-
-.blob3bg {
-    margin-top: -200px;
-    margin-left: 500px;
-    height: 725px;
-    width: 880px;
-    position: absolute;
-    z-index: -1;
-} */
-
-
-/*About Margin*/
-
-/* .foto {
-    margin-left: -50px;
-}
-
-.about {
-    margin-left: 15px;
-}
-
-.skills {
-    margin-left: 120px;
-} */
-
-
-/*circle*/
-
-/* .dot {
-    margin-top: 100px;
-    margin-left: 100px;
-    height: 175px;
-    width: 175px;
-    background-color: #F8CF3E;
-    border-radius: 50%;
-    display: inline-block;
-    z-index: -1;
-} */
-
 .container-about{
     display: flex;
 }
@@ -145,7 +87,6 @@ a:hover {
 .nama {
     font-family: 'ClashDisplay-Bold', sans-serif;
     font-size: 24px;
-    font-weight: 800;
     margin-top: 120px;
 }
 
@@ -291,12 +232,13 @@ a:hover {
 /*PROJECT*/
 
 .project {
-    margin-top: 250px;
+    margin-top: 100px;
 }
 
 .container-porto{
     max-width: 1200px;
-    margin-bottom: 500px;
+    margin: 30px auto;
+    margin-bottom: 20px;
     background: #F8CF3E;
     display: flex;
     justify-content: space-evenly;
@@ -338,15 +280,12 @@ a:hover {
     font-size: 24px;
     font-weight: 800;
     padding-top: 25px;
-    padding-left: 25px;
 }
 
 .card-text-project1 {
     font-family: 'ClashDisplay-Medium', sans-serif;
     font-size: 14px;
     font-weight: 500;
-    padding-left: 25px;
-    padding-right: 40px;
     padding-top: 15px;
 }
 
@@ -357,67 +296,24 @@ a:hover {
     background: #F8CF3E;
     padding-left: 20px;
     padding-right: 20px;
-    margin-left: 25px;
     border-radius: 25px;
 }
 
 
-/*CONTACT*/
-
-.contact {
-    margin-top: 250px;
-}
-
-.txt-contact {
-    font-family: 'Poppins', sans-serif;
-    font-size: 36px;
-    font-weight: 800;
-    margin-bottom: 50px;
-}
-
-.card-contact {
-    /* width: 800px; */
-    height: 300px;
+.btn:hover {
     box-shadow: 0 6px 15px 0 rgba(0, 0, 0, 0.2);
-    border: none;
-    border-radius: 25px;
 }
-
-.contact-con {
-    margin: 25px;
-}
-
-.ic-con {
-    margin-right: -70px;
-    margin-left: 10px;
-}
-
-.icon-contact {
-    width: 32px;
-    height: 32px;
-}
-
-.card-text-contact {
-    font-family: 'Poppins', sans-serif;
-    font-size: 14px;
-    font-weight: 600;
-}
-
-.contact-row {
-    margin-top: 25px;
-}
-
-.contact-row1 {
-    margin-top: 30px;
-}
-
 
 /*FOOTER*/
 
+.container-footer{
+    display: flex;
+    justify-content: center;
+}
+
 .foot {
-    color: rgb(97, 97, 97);
-    margin-top: 50px;
-    margin-bottom: 50px;
-    font-family: 'Poppins', sans-serif;
+    padding: 30px;
+    color: #000000;
+    font-family: 'ClashDisplay-Medium', sans-serif;
     font-size: 14px;
 }
