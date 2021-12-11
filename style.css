@@ -263,6 +263,7 @@ a:hover {
 
 .img-project {
     border-radius: 25px;
+    padding: 20px;
 }
 
 .project1 {
@@ -275,6 +276,7 @@ a:hover {
 
 .card-body-project1 {
     padding: 20px;
+    box-sizing: border-box;
 }
 
 .card-title-project1 {
